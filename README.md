@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Akash Singh Rawat, a passionate Full-Stack & Mobile App Developer with experience in building, deploying, and scaling applications. I have successfully launched apps on both Google Play Store and Apple App Store, making user-friendly and high-performing applications.<br><br>What I Do<br>•Develop cross-platform mobile apps using Flutter & Dart<br>•Work with PHP & CMS platforms to create scalable web solutions<br>•Deploy & manage apps on Play Store and App Store<br><br>Tech Stack<br>- Flutter | Dart <br>- PHP | CMS | Firebase <br>- Play Store | App Store | Git | Xcode | Android Studio <br>
+Hi, I’m Akash Singh Rawat, a passionate Mobile App Developer with experience in building, deploying, and scaling applications. I have successfully launched apps on both Google Play Store and Apple App Store, making user-friendly and high-performing applications.<br><br>What I Do<br>•Develop cross-platform mobile apps using Flutter & Dart<br>•Work with PHP & CMS platforms to create scalable web solutions<br>•Deploy & manage apps on Play Store and App Store<br><br>Tech Stack<br>- Flutter | Dart <br>- PHP | CMS | Firebase <br>- Play Store | App Store | Git | Xcode | Android Studio <br>
 
 
 ## 🌐 Socials:
